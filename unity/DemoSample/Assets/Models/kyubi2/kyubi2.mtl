@@ -1,0 +1,114 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 15.06.2016 13:09:51
+
+newmtl f08577bd_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.1000 0.1000 0.1000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\dx ripper\3d\3d15\Textures\f08577bd.dds
+	map_Kd D:\dx ripper\3d\3d15\Textures\f08577bd.dds
+
+newmtl d06d04f5_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.1000 0.1000 0.1000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\dx ripper\3d\3d15\Textures\d06d04f5.dds
+	map_Kd D:\dx ripper\3d\3d15\Textures\d06d04f5.dds
+
+newmtl 5453ad6c_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.1000 0.1000 0.1000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\dx ripper\3d\3d15\Textures\5453ad6c.dds
+	map_Kd D:\dx ripper\3d\3d15\Textures\5453ad6c.dds
+
+newmtl 8e4dac87_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.1000 0.1000 0.1000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\dx ripper\3d\3d15\Textures\8e4dac87.dds
+	map_Kd D:\dx ripper\3d\3d15\Textures\8e4dac87.dds
+
+newmtl b9df75e6_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.1000 0.1000 0.1000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\dx ripper\3d\3d15\Textures\b9df75e6.dds
+	map_Kd D:\dx ripper\3d\3d15\Textures\b9df75e6.dds
+
+newmtl ca4358c1_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.1000 0.1000 0.1000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\dx ripper\3d\3d15\Textures\ca4358c1.dds
+	map_Kd D:\dx ripper\3d\3d15\Textures\ca4358c1.dds
+
+newmtl Material__3094
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\dx ripper\3d\3d15\Textures\bd593dfb.dds
+	map_Kd D:\dx ripper\3d\3d15\Textures\bd593dfb.dds
+
+newmtl Material__3095
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\dx ripper\3d\3d15\Textures\ca4358c1.dds
+	map_Kd D:\dx ripper\3d\3d15\Textures\ca4358c1.dds
